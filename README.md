@@ -27,9 +27,9 @@ On Linux/UNIX all POSIX compliant shells are supported.
 All scripts can have there own licenses, as long as there opensource!
 
 ### Systems
--[X] Linux
--[ ] BSD (UNIX)
--[ ] Darwin
--[ ] Illumos (UNIX)
--[X] NT
--[ ] DOS
+- [X] Linux
+- [ ] BSD (UNIX)
+- [ ] Darwin
+- [ ] Illumos (UNIX)
+- [X] NT
+- [ ] DOS
