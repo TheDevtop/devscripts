@@ -24,7 +24,7 @@ For example: On Windows only Batch and Powershell are supported.
 On Linux/UNIX all POSIX compliant shells are supported.
 
 ### License
-All scripts can have there own licenses, as long as there opensource!
+All scripts can have there own licenses, as long as they're opensource!
 
 ### Systems
 - [X] Linux
